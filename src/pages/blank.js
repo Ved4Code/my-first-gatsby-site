@@ -6,6 +6,7 @@ const NewPage = () => {
   return (
     <Layout pageTitle="New Page">
       <p>Hi Vedant👋 Please accept my pull request!</p>
+      <p>Hi, Accepted!</p>
       <StaticImage
         alt="Smiley face image"
         src="../images/smiley.png"
